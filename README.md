@@ -26,6 +26,7 @@ Update the table (today you need to fill at least the first two columns)
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
 | Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Maksymilian Stróżyk |
 | Giezgała Jakub | [kugi8412](https://github.com/kugi8412) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Kupidura Piotr, Aleksander Janowiak | 
+| Kupidura Piotr | [PiotrKupidura](https://github.com/PiotrKupidura) | [DrugKIT](https://github.com/kugi8412/DrugKit) | Deep Docking Drug Discovery Kit | Giezgała Jakub, Aleksander Janowiak |
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
